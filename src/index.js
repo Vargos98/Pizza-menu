@@ -58,7 +58,7 @@ function App() {
 }
 
 function Header() {
-  // const style = { color: "red", fontSize: "48px", textTransform: "uppercase" };
+//   const style = { color: "red", fontSize: "48px", textTransform: "uppercase" };
   const style = {};
 
   return (
