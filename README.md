@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![Screenshot 2024-01-06 135344](https://github.com/Vargos98/Pizza-menu/assets/127929058/81b3f64b-b09d-4625-a711-748a125dba0a)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
